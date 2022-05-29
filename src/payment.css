@@ -1,0 +1,20 @@
+.payment h1{
+    text-align: center;
+    padding: 10px;
+    font-weight: 600;
+}
+
+
+.payment-section{
+    background-color:#ffffff;
+    border: 2px solid lightgrey;
+    display: flex;
+}
+
+.payment-title{
+    flex: 0.2;
+}
+
+.payment-address{
+    flex: 0.8;
+}
